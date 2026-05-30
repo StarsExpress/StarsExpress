@@ -21,7 +21,7 @@
 
 ## 🍎 Open Source Contributions 🍇
 
-- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — [6 optimal solutions for hard problems](https://github.com/doocs/leetcode/pulls?q=is%3Apr+author%3AStarsExpress+is%3Aclosed)
+- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — [contributed 6 optimal solutions and tutorials for hard problems.](https://github.com/doocs/leetcode/pulls?q=is%3Apr+author%3AStarsExpress+is%3Aclosed)
 
 ---
 
