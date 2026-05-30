@@ -2,9 +2,12 @@
 #### You can call me Yuan, Jack, or any of these 6 "substrings" 😄
 
 ---
+
+## 🧸 Experiences So Far 🛤️
+
 * Summer 2026 Internship: DS Intern @ Walmart
 * Current School: MSA, School of CSE @ Georgia Tech
-* Former Experience: Data Scientist @ SUEZ, specializing in sequence data like NLP & time series
+* Former Full-time: Data Scientist @ SUEZ, specializing in sequence data like NLP & time series
 
 🔭 Technical Blog: [SkyHorse](https://starsexpress.github.io/SkyHorse/) | 
 🌐 My [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yuan-Jack-Yao)
