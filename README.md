@@ -2,7 +2,7 @@
 #### You can call me Yuan, Jack, or any of these 6 "substrings" 😄
 
 ---
-* Current Summer Internship: DS Intern @ Walmart
+* Summer 2026 Internship: DS Intern @ Walmart
 * Current School: MSA, School of CSE @ Georgia Tech
 * Former Experience: Data Scientist @ SUEZ, specializing in sequence data like NLP & time series
 
@@ -21,7 +21,7 @@
 
 ## 🍎 Open Source Contributions 🍇
 
-- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — [contributed 6 optimal solutions and tutorials for hard problems.](https://github.com/doocs/leetcode/pulls?q=is%3Apr+author%3AStarsExpress+is%3Aclosed)
+- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — merged [6 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
 
 ---
 
