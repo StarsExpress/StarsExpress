@@ -5,12 +5,13 @@
 
 ## 🧸 Experiences So Far 🛤️
 
-* Summer 2026 Internship: DS Intern @ Walmart
+* Summer 2026 Internship: DS Intern @ Walmart, Gen AI Team
 * Current School: MSA, School of CSE @ Georgia Tech
-* Former Full-time: Data Scientist @ SUEZ, specializing in sequence data like NLP & time series
+* Former Full-time: Data Scientist @ SUEZ, specializing in Deep Learning on sequence data like NLP & time series
 
 🔭 Technical Blog: [SkyHorse](https://starsexpress.github.io/SkyHorse/) | 
-🌐 My [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yuan-Jack-Yao)
+🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yuan-Jack-Yao) | 
+📮 My Email: yyao411@gatech.edu
 
 ---
 
