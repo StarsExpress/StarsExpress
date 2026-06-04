@@ -5,7 +5,7 @@
 
 ## 🧸 Experiences So Far 🛤️
 
-* Summer 2026 Internship: DS Intern @ Walmart, Gen AI Team
+* Summer 2026 Internship: DS III Intern @ Walmart, Gen AI Team
 * Current School: MSA, School of CSE @ Georgia Tech
 * Former Full-time: Data Scientist @ SUEZ, specializing in Deep Learning on sequence data like NLP & time series
 
@@ -25,7 +25,7 @@
 
 ## 🍎 Open Source Contributions 🍇
 
-- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — merged [6 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
+- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — merged [7 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
 
 ---
 
