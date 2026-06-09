@@ -5,7 +5,7 @@
 
 ## 🧸 Experiences So Far 🛤️
 
-* Summer 2026 Internship: DS III Intern @ Walmart, Gen AI Team
+* Summer 2026 Internship: DS III Intern @ Walmart, AI Acceleration Team
 * Current School: MSA, School of CSE @ Georgia Tech
 * Former Full-time: Data Scientist @ SUEZ, specializing in Deep Learning on sequence data like NLP & time series
 
