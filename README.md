@@ -1,5 +1,5 @@
 # 😃 Hi Everyone~I am Yuan Jack Yao
-#### You can call me Yuan, Jack, or any of these 6 "substrings" 😄
+#### You can call me Yuan, Jack, or any of these 7 __nonempty__ "subsequences" 😄
 
 ---
 
