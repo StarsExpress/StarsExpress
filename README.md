@@ -25,7 +25,7 @@
 
 ## 🍎 Open Source Contributions 🍇
 
-- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — merged [7 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
+- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — merged [8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
 
 ---
 
