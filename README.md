@@ -5,9 +5,9 @@
 
 ## 🧸 Experiences So Far 🛤️
 
-* Summer 2026 Internship: Data Scientist III Intern @ Walmart, AI Acceleration Team
-* Current School: MSA, School of Computational Science & Engineering @ Georgia Tech
-* Former Full-time: Data Scientist @ SUEZ, specializing in Deep Learning on sequence data like NLP & time series
+* Summer 2026: Data Scientist III Intern @ Walmart, AI Acceleration Team
+* MSA, School of Computational Science & Engineering @ Georgia Tech
+* Former Full-time Data Scientist @ SUEZ, specializing in Deep Learning on sequence data like NLP & time series
 
 [![JOB](https://img.shields.io/badge/🐵JOB-Jack's_Online_Blackjack-yellow?style=flat)](https://jack-s-onlineblackjack.up.railway.app/)
 [![SkyHorse](https://img.shields.io/badge/🎠SkyHorse-Technical_Blog-darkgreen?style=flat)](https://starsexpress.github.io/SkyHorse/)
