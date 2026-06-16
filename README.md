@@ -5,13 +5,14 @@
 
 ## 🧸 Experiences So Far 🛤️
 
-* Summer 2026 Internship: DS III Intern @ Walmart, AI Acceleration Team
-* Current School: MSA, School of CSE @ Georgia Tech
+* Summer 2026 Internship: Data Scientist III Intern @ Walmart, AI Acceleration Team
+* Current School: MSA, School of Computational Science & Engineering @ Georgia Tech
 * Former Full-time: Data Scientist @ SUEZ, specializing in Deep Learning on sequence data like NLP & time series
 
-🔭 Technical Blog: [SkyHorse](https://starsexpress.github.io/SkyHorse/) | 
-🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yuan-Jack-Yao) | 
-📮 My Email: yyao411@gatech.edu
+[![JOB](https://img.shields.io/badge/🎰JOB-Jack's_Online_Blackjack-yellow?style=flat)](https://jack-s-onlineblackjack.up.railway.app/)
+[![SkyHorse](https://img.shields.io/badge/🏇SkyHorse-Technical_Blog-darkgreen?style=flat)](https://starsexpress.github.io/SkyHorse/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yuan-Jack-Yao)
+[![Email](https://img.shields.io/badge/Email-yyao411@gatech.edu-red?style=flat&logo=gmail&logoColor=white)](mailto:yyao411@gatech.edu)
 
 ---
 
@@ -19,13 +20,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,github,mysql,aws,cpp,linux)](https://skillicons.dev)
 
-**Also:** HuggingFace · Keras · PySpark · Databricks · Docker · Postgres · Flask · Bitbucket
+**Also:** Hugging Face · Keras · PySpark · Kubernetes · Docker · Databricks · Postgres · Flask · Bitbucket
 
 ---
 
 ## 🍎 Open Source Contributions 🍇
 
-- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.1k⭐, 9.4k🍴) — merged [8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
+- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.2k⭐, 9.4k🍴) — merged [8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
 
 ---
 
@@ -33,5 +34,6 @@
 
 | Name | Description |
 |--------|-------------|
+| [🎰JOB: Jack's Online Blackjack](https://jack-s-onlineblackjack.up.railway.app/) | Blackjack game featuring Macau style complex rules: early pay, insurance, and up to 3 splits. |
 | [🏇SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 20+ LeetCode Hard tutorials with Python & C++. |
 | [🌏EnviroScope](https://github.com/StarsExpress/EnviroScope) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. |
