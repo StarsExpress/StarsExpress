@@ -28,9 +28,9 @@
 
 ## 🧑🏻‍💻 What Do I Work 🛠
 
-#### 🎠 Gen AI & ML
+#### 🪄 Gen AI & ML
 
-[![🎠 Gen AI & ML](https://skillicons.dev/icons?i=pytorch,python,tensorflow)](https://skillicons.dev)
+[![🪄 Gen AI & ML](https://skillicons.dev/icons?i=pytorch,python,tensorflow)](https://skillicons.dev)
 
 Also: Hugging Face · Keras
 
