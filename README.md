@@ -6,8 +6,10 @@
 ## 🧸 Experiences So Far 🛤️
 
 * Summer 2026: Data Scientist III Intern @ Walmart, AI Acceleration Team
+
 * MSA, School of Computational Science & Engineering @ Georgia Tech
-* Former Full-time Data Scientist @ SUEZ, specializing in Deep Learning on sequence data like NLP & time series
+
+* Former Full-time Data Scientist @ SUEZ, specializing in sequence data like NLP & time series
 
 [![JOB](https://img.shields.io/badge/🐵JOB-Jack's_Online_Blackjack-yellow?style=flat)](https://jack-s-onlineblackjack.up.railway.app/)
 [![SkyHorse](https://img.shields.io/badge/🎠SkyHorse-Technical_Blog-darkgreen?style=flat)](https://starsexpress.github.io/SkyHorse/)
@@ -16,11 +18,29 @@
 
 ---
 
-## 🧑🏻‍💻 What I Work 🛠
+## 🧑🏻‍💻 What Do I Work 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,github,mysql,aws,cpp,linux)](https://skillicons.dev)
+#### 🎠 Gen AI & ML
 
-**Also:** Hugging Face · Keras · PySpark · Kubernetes · Docker · Databricks · Postgres · Flask · Bitbucket
+[![🎠 Gen AI & ML](https://skillicons.dev/icons?i=pytorch,python,tensorflow)](https://skillicons.dev)
+
+**Also:** Hugging Face · Keras
+
+#### 🏎️ Automation & CI/CD
+
+[![🏎️ Automation & CI/CD](https://skillicons.dev/icons?i=github,bitbucket,linux,docker,kubernetes)](https://skillicons.dev)
+
+#### ☁️ Cloud & Data Platforms
+
+[![☁️ Cloud & Data Platforms](https://skillicons.dev/icons?i=azure,aws,gcp)](https://skillicons.dev)
+
+#### 🛢️ Databases & C++
+
+[![🛢️ Databases & C++](https://skillicons.dev/icons?i=mysql,postgres,cpp)](https://skillicons.dev)
+
+#### 👀 Frontend & Visualization
+
+[![👀 Frontend & Visualization](https://skillicons.dev/icons?i=fastapi,javascript,css,html,flask)](https://skillicons.dev)
 
 ---
 
