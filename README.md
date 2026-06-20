@@ -24,7 +24,7 @@
 
 [![🎠 Gen AI & ML](https://skillicons.dev/icons?i=pytorch,python,tensorflow)](https://skillicons.dev)
 
-**Also:** Hugging Face · Keras
+Also: Hugging Face · Keras
 
 #### 🏎️ Automation & CI/CD
 
