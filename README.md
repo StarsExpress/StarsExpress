@@ -1,20 +1,28 @@
 # 😃 Hi Everyone~I am Yuan Jack Yao
 #### You can call me Yuan, Jack, or any of these 7 __nonempty__ "subsequences" 😄
 
----
-
-## 🧸 Experiences So Far 🛤️
-
-* Summer 2026: Data Scientist III Intern @ Walmart, AI Acceleration Team
-
-* MSA, School of Computational Science & Engineering @ Georgia Tech
-
-* Former Full-time Data Scientist @ SUEZ, specializing in sequence data like NLP & time series
-
 [![JOB](https://img.shields.io/badge/🐵JOB-Jack's_Online_Blackjack-yellow?style=flat)](https://www.jack-s-onlineblackjack.com)
 [![SkyHorse](https://img.shields.io/badge/🎠SkyHorse-Technical_Blog-darkgreen?style=flat)](https://starsexpress.github.io/SkyHorse/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yuan-Jack-Yao)
 [![Email](https://img.shields.io/badge/Email-yyao411@gatech.edu-red?style=flat&logo=gmail&logoColor=white)](mailto:yyao411@gatech.edu)
+
+---
+
+## 🧸 Experiences So Far 🛤️
+
+#### 🖥️ At Companies
+
+* Summer 2026: Data Scientist III Intern @ Walmart, AI Acceleration Team
+
+* Former Full-time Data Scientist @ SUEZ, specializing in sequence data like NLP & time series
+
+#### 🏫 At Schools
+
+* Fall 2026: Graduate TA for CS 6604 Conversational AI @ Georgia Tech
+
+* MSA, School of Computational Science & Engineering @ Georgia Tech
+
+  Expected to graduate in December 2026
 
 ---
 
