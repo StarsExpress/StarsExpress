@@ -63,5 +63,5 @@ Also: Hugging Face · Keras
 | Name | Description |
 |--------|-------------|
 | [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Blackjack game featuring Macau style complex rules: early pay, insurance, and up to 3 splits. |
-| [🏇SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 20+ LeetCode Hard tutorials with Python & C++. |
+| [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 20+ LeetCode Hard tutorials with Python & C++. |
 | [🌏EnviroScope](https://github.com/StarsExpress/EnviroScope) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. |
