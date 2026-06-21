@@ -12,17 +12,18 @@
 
 #### 🖥️ At Companies
 
-* Summer 2026: Data Scientist III Intern @ Walmart, AI Acceleration Team
+* Summer 2026: DS III Intern @ Walmart
+  - Sam's Club AI Acceleration Team
 
-* Former Full-time Data Scientist @ SUEZ, specializing in sequence data like NLP & time series
+* Former Full-time Data Scientist @ SUEZ
+  - NLP | Time Series | DBSCAN | CronJob
 
 #### 🏫 At Schools
 
 * Fall 2026: Graduate TA for CS 6604 Conversational AI @ Georgia Tech
 
 * MSA, School of Computational Science & Engineering @ Georgia Tech
-
-  Expected to graduate in December 2026
+  - Expected to graduate in December 2026
 
 ---
 
