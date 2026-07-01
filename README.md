@@ -1,6 +1,10 @@
 # 😃 Hi Everyone~I am Yuan Jack Yao
 #### You can call me Yuan, Jack, or any of these 7 __nonempty__ "subsequences" 😄
 
+[![Portfolio](https://img.shields.io/badge/🏔️Faraway's_Way-Portfolio-7C3AED?style=for-the-badge&logo=github-pages&logoColor=white)](https://starsexpress.github.io/Faraway-s-Way/)
+
+---
+
 [![JOB](https://img.shields.io/badge/🐵JOB-Jack's_Online_Blackjack-yellow?style=flat)](https://www.jack-s-onlineblackjack.com)
 [![SkyHorse](https://img.shields.io/badge/🎠SkyHorse-Technical_Blog-darkgreen?style=flat)](https://starsexpress.github.io/SkyHorse/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yuan-Jack-Yao)
@@ -16,7 +20,7 @@
   - Sam's Club AI Acceleration Team
 
 * Former Full-time Data Scientist @ SUEZ
-  - NLP | Time Series | DBSCAN | CronJob
+  - NLP | Time Series | DBSCAN | Linux
 
 #### 🏫 At Schools
 
@@ -27,7 +31,7 @@
 
 ---
 
-## 🧑🏻‍💻 What Do I Work 🛠
+## 🧑🏻‍💻 Tech Bag 🛠
 
 #### 🪄 Gen AI & ML
 
@@ -47,9 +51,9 @@ Also: Hugging Face · Keras
 
 [![🛢️ Databases & C++](https://skillicons.dev/icons?i=mysql,postgres,cpp)](https://skillicons.dev)
 
-#### 👀 Frontend & Visualization
+#### 👀 Web & Visualization
 
-[![👀 Frontend & Visualization](https://skillicons.dev/icons?i=fastapi,javascript,css,html,flask)](https://skillicons.dev)
+[![👀 Web & Visualization](https://skillicons.dev/icons?i=fastapi,javascript,css,html,flask)](https://skillicons.dev)
 
 ---
 
@@ -65,4 +69,4 @@ Also: Hugging Face · Keras
 |--------|-------------|
 | [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Blackjack game featuring Macau style complex rules: early pay, insurance, and up to 3 splits. |
 | [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 20+ LeetCode Hard tutorials with Python & C++. |
-| [🌏EnviroScope](https://github.com/StarsExpress/EnviroScope) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. |
+| [🌏EcoTeller](https://github.com/StarsExpress/EcoTeller) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. |
