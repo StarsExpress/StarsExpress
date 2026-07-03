@@ -17,10 +17,12 @@
 #### 🖥️ At Companies
 
 * Summer 2026: DS III Intern @ Walmart
+  - CI/CD | Docker | Kubernetes | Azure
   - Sam's Club AI Acceleration Team
 
 * Former Full-time Data Scientist @ SUEZ
   - NLP | Time Series | DBSCAN | Linux
+  - Smart & Environmental Solutions (SES) China
 
 #### 🏫 At Schools
 
@@ -67,6 +69,6 @@ Also: Hugging Face · Keras
 
 | Name | Description |
 |--------|-------------|
-| [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Blackjack game featuring Macau style complex rules: early pay, insurance, and up to 3 splits. |
-| [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 20+ LeetCode Hard tutorials with Python & C++. |
+| [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Casino-style UI Blackjack game featuring Macau style complex rules: early pay, insurance, and up to 3 splits. |
+| [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 30+ LeetCode Hard tutorials with Python & C++. |
 | [🌏EcoTeller](https://github.com/StarsExpress/EcoTeller) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. |
