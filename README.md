@@ -1,14 +1,14 @@
 # 😃 Hi Everyone~I am Yuan Jack Yao
 #### You can call me Yuan, Jack, or any of these 7 __nonempty__ "subsequences" 😄
 
-[![Portfolio](https://img.shields.io/badge/🏔️Faraway's_Way-Portfolio-7C3AED?style=for-the-badge&logo=github-pages&logoColor=white)](https://starsexpress.github.io/Faraway-s-Way/)
+[![Portfolio](https://img.shields.io/badge/🏔️Faraway's_Way-Portfolio-red?style=for-the-badge&logo=github-pages&logoColor=white)](https://starsexpress.github.io/Faraway-s-Way/)
 
 ---
 
 [![JOB](https://img.shields.io/badge/🐵JOB-Jack's_Online_Blackjack-yellow?style=flat)](https://www.jack-s-onlineblackjack.com)
 [![SkyHorse](https://img.shields.io/badge/🎠SkyHorse-Technical_Blog-darkgreen?style=flat)](https://starsexpress.github.io/SkyHorse/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yuan-Jack-Yao)
-[![Email](https://img.shields.io/badge/Email-yyao411@gatech.edu-red?style=flat&logo=gmail&logoColor=white)](mailto:yyao411@gatech.edu)
+[![Email](https://img.shields.io/badge/Email-yyao411@gatech.edu-7C3AED?style=flat&logo=gmail&logoColor=white)](mailto:yyao411@gatech.edu)
 
 ---
 
@@ -69,6 +69,7 @@ Also: Hugging Face · Keras
 
 | Name | Description |
 |--------|-------------|
-| [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Casino-style UI Blackjack game featuring Macau style complex rules: early pay, insurance, and up to 3 splits. |
+| [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Casino-style UI Blackjack game featuring Macau style complex rules: Blackjack early pay, insurance against dealer's Ace, up to 3 splits per hand. |
 | [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 30+ LeetCode Hard tutorials with Python & C++. |
+| [🏈LinesShines · 鋒光](https://lines-shines.up.railway.app) | Full-stack live NFL O-Line & D-Line PFF metrics dashboard — interactive filters, plots embedded with detailed player cards, exportable PNGs. |
 | [🌏EcoTeller](https://github.com/StarsExpress/EcoTeller) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. |
