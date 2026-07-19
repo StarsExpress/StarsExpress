@@ -65,11 +65,11 @@ Also: Hugging Face · Keras
 
 ---
 
-## 📚 Hobbies-Driven Projects 🏔️
+## 📚 Hobbies Deployment 🏹
 
-| Name | Description |
-|--------|-------------|
-| [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Casino-style UI Blackjack game featuring Macau style complex rules: Blackjack early pay, insurance against dealer's Ace, up to 3 splits per hand. |
-| [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 30+ LeetCode Hard tutorials with Python & C++. |
-| [🏈LinesShines · 鋒光](https://lines-shines.up.railway.app) | Full-stack live NFL O-Line & D-Line PFF metrics dashboard — interactive filters, plots embedded with detailed player cards, exportable PNGs. |
-| [🌏EcoTeller](https://github.com/StarsExpress/EcoTeller) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. |
+| Name | Description | Status |
+|--------|-------------|----------|
+| [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Casino-style UI Blackjack game featuring Macau style complex rules: Blackjack early pay, insurance against dealer's Ace, up to 3 splits per hand. | ✅Deployed |
+| [🏈LinesShines · 鋒光](https://lines-shines.up.railway.app) | Full-stack live NFL O-Line & D-Line PFF metrics dashboard — interactive filters, plots embedded with detailed player cards, exportable PNGs. | ✅Deployed |
+| [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 30+ LeetCode Hard tutorials with Python & C++. | ✅Deployed |
+| [🌏EcoTeller](https://github.com/StarsExpress/EcoTeller) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. | 🪏Frontend planning |
