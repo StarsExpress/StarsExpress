@@ -5,7 +5,7 @@
 
 ---
 
-[![LinesShines](https://img.shields.io/badge/🏈LinesShines-NFL_Stats_Interactive_Explorer-black?style=flat)](https://lines-shines.up.railway.app)
+[![LinesShines](https://img.shields.io/badge/🏈LinesShines-NFL_Stats_Interactive_Explorer-black?style=flat)](https://www.lines-shines.com)
 
 [![JOB](https://img.shields.io/badge/🐵JOB-Jack's_Online_Blackjack-yellow?style=flat)](https://www.jack-s-onlineblackjack.com)
 [![SkyHorse](https://img.shields.io/badge/🎠SkyHorse-Technical_Blog-darkgreen?style=flat)](https://starsexpress.github.io/SkyHorse/)
@@ -40,7 +40,7 @@
 
 | Name | Description | Status |
 |--------|-------------|----------|
-| [🏈LinesShines · 鋒光](https://lines-shines.up.railway.app) | Full-stack live NFL O-Line & D-Line PFF metrics explorer — interactive filters, detailed & dynamic player cards, exportable high-resolution plots. | ✅Deployed |
+| [🏈LinesShines · 鋒光](https://www.lines-shines.com) | Full-stack live NFL O-Line & D-Line PFF metrics explorer — interactive filters, detailed & dynamic player cards, exportable high-resolution plots. | ✅Deployed |
 | [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Casino-style Macau Blackjack featuring authentic complex rule implementation and polished gameplay experience. | ✅Deployed |
 | [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 30+ LeetCode Hard tutorials with Python & C++. | ✅Deployed |
 | [🌏EcoTeller](https://github.com/StarsExpress/EcoTeller) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. | 🪏Frontend planning |
