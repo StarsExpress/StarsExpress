@@ -20,7 +20,7 @@
 #### 🖥️ At Companies
 
 * Summer 2026: DS III Intern @ Walmart
-  - CI/CD | Docker | Kubernetes | Azure
+  - RAG | AI Platform | AI Infra | CI/CD
   - Sam's Club AI Acceleration Team
 
 * Former Full-time Data Scientist @ SUEZ
@@ -40,7 +40,7 @@
 
 | Name | Description | Status |
 |--------|-------------|----------|
-| [🏈LinesShines · 鋒光](https://www.lines-shines.com) | Full-stack live NFL O-Line & D-Line PFF metrics explorer — interactive filters, detailed & dynamic player cards, exportable high-resolution plots. | ✅Deployed |
+| [🏈LinesShines · 鋒光](https://www.lines-shines.com) | Full-stack live NFL O-Line & D-Line PFF metrics explorer — interactive filters, detailed & dynamic & mergable player cards, exportable high-resolution plots. | ✅Deployed |
 | [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Casino-style Macau Blackjack featuring authentic complex rule implementation and polished gameplay experience. | ✅Deployed |
 | [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 30+ LeetCode Hard tutorials with Python & C++. | ✅Deployed |
 | [🌏EcoTeller](https://github.com/StarsExpress/EcoTeller) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. | 🪏Frontend planning |
@@ -53,7 +53,7 @@
 
 [![🪄 Gen AI & ML](https://skillicons.dev/icons?i=pytorch,python,tensorflow)](https://skillicons.dev)
 
-Also: Hugging Face · Keras
+Also: RAG · Hugging Face · Keras
 
 #### 🏎️ Automation & CI/CD
 
@@ -65,7 +65,7 @@ Also: Hugging Face · Keras
 
 #### 🛢️ Databases & C++
 
-[![🛢️ Databases & C++](https://skillicons.dev/icons?i=mysql,postgres,cpp)](https://skillicons.dev)
+[![🛢️ Databases & C++](https://skillicons.dev/icons?i=cassandra,mysql,postgres,cpp)](https://skillicons.dev)
 
 #### 👀 Web & Visualization
 
