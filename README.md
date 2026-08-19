@@ -20,7 +20,7 @@
 #### 🖥️ At Companies
 
 * Summer 2026: DS III Intern @ Walmart
-  - RAG | AI Platform | AI Infra | CI/CD
+  - AI Infra & Platform | RAG | CI/CD
   - Sam's Club AI Acceleration Team
 
 * Former Full-time Data Scientist @ SUEZ
@@ -29,7 +29,7 @@
 
 #### 🏫 At Schools
 
-* Fall 2026: Graduate TA for CS 6604 Conversational AI @ Georgia Tech
+* Fall 2026: Grad TA for CS 6604 Conversational AI @ Georgia Tech
 
 * MSA, School of Computational Science & Engineering @ Georgia Tech
   - Expected graduation: December 2026
@@ -40,7 +40,7 @@
 
 | Name | Description | Status |
 |--------|-------------|----------|
-| [🏈LinesShines · 鋒光](https://www.lines-shines.com) | Full-stack live NFL O-Line & D-Line PFF metrics explorer — interactive filters, detailed & dynamic & mergable player cards, exportable high-resolution plots. | ✅Deployed |
+| [🏈LinesShines · 鋒光](https://www.lines-shines.com) | Full-stack live NFL O-Line & D-Line PFF metrics system — interactive filters, smart search, detailed & dynamic & combinable player cards, exportable high-resolution PNGs. | ✅Deployed |
 | [🎰JOB: Jack's Online Blackjack](https://www.jack-s-onlineblackjack.com) | Casino-style Macau Blackjack featuring authentic complex rule implementation and polished gameplay experience. | ✅Deployed |
 | [🏇天码行空 · SkyHorse](https://starsexpress.github.io/SkyHorse/) | Chinese-English Bilingual DSA tech blog, covering 30+ LeetCode Hard tutorials with Python & C++. | ✅Deployed |
 | [🌏EcoTeller](https://github.com/StarsExpress/EcoTeller) | LoRA fine-tuned Qwen2.5-3B-Instruct for environmental issue extraction from related news titles. | 🪏Frontend planning |
@@ -67,6 +67,8 @@ Also: RAG · Hugging Face · Keras
 
 [![🛢️ Databases & C++](https://skillicons.dev/icons?i=cassandra,mysql,postgres,cpp)](https://skillicons.dev)
 
+Also: Milvus
+
 #### 👀 Web & Visualization
 
 [![👀 Web & Visualization](https://skillicons.dev/icons?i=fastapi,javascript,css,html,flask)](https://skillicons.dev)
@@ -75,4 +77,7 @@ Also: RAG · Hugging Face · Keras
 
 ## 🍎 Open Source Contributions 🍇
 
-- **[LeetCode Wiki](https://leetcode.doocs.org/en/)** (36.3k⭐, 9.4k🍴) — merged [8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
+| Product | Role | Repo | Contributions |
+|--------|-------------|----------|----------|
+| [Code Puppy](https://code-puppy.dev) | Coding Agents | [795⭐, 267🍴](https://github.com/mpfaffenberger/code_puppy) | Merged [3 PRs](https://github.com/mpfaffenberger/code_puppy/pulls?q=is:pr+author:StarsExpress+is:merged) — correcting bot report's code misclassification, removing dead code and extracting a shared helper as DRY fix.
+| [LeetCode Wiki](https://leetcode.doocs.org/en/) | DSA Library | [36.5k⭐, 9.5k🍴](https://github.com/doocs/leetcode) | Merged [8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
