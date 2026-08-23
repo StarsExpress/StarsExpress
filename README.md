@@ -79,5 +79,5 @@ Also: Milvus
 
 | Product | Role | Repo | Contributions |
 |--------|-------------|----------|----------|
-| [Code Puppy](https://code-puppy.dev) | Coding Agents | [796⭐, 268🍴](https://github.com/mpfaffenberger/code_puppy) | Merged [4 PRs](https://github.com/mpfaffenberger/code_puppy/pulls?q=is:pr+author:StarsExpress+is:merged) — aligned behavioral inconsistency spanning 20+ call sites, enhanced type safety from issues' suggested fix, and corrected automated triage bot's mis-classification.
+| [Code Puppy](https://code-puppy.dev) | Coding Agents | [798⭐, 269🍴](https://github.com/mpfaffenberger/code_puppy) | Merged [4 PRs](https://github.com/mpfaffenberger/code_puppy/pulls?q=is:pr+author:StarsExpress+is:merged) — aligned behavioral inconsistency spanning 20+ parser calls, split into dedicated truthy & falsy case parsers with enhanced type safety, and corrected triage bot’s mis-judgement.
 | [LeetCode Wiki](https://leetcode.doocs.org/en/) | DSA Library | [36.5k⭐, 9.5k🍴](https://github.com/doocs/leetcode) | Merged [8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
