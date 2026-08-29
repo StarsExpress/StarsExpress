@@ -29,7 +29,7 @@
 
 #### 🏫 At Georgia Tech
 
-* Graduate TA for CS 6604 Conversational AI
+* Graduate TA — CS 6604 Conversational AI
 
 * MSA, School of Computational Science & Engineering
   - Expected graduation: December 2026
