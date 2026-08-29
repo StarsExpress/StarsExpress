@@ -23,13 +23,13 @@
   - AI Infra & Platform | RAG | CI/CD
   - Sam's Club AI Acceleration Team
 
-* Former Full-time Junior Data Scientist @ SUEZ
+* Former Full-time Junior DS @ SUEZ
   - NLP | Time Series | DBSCAN | Linux
   - Smart & Environmental Solutions (SES) China
 
 #### 🏫 At Georgia Tech
 
-* Fall 2026: Grad TA for CS 6604 Conversational AI
+* Graduate TA for CS 6604 Conversational AI
 
 * MSA, School of Computational Science & Engineering
   - Expected graduation: December 2026
