@@ -19,11 +19,11 @@
 
 #### 🖥️ At Companies
 
-* Summer 2026: DS III Intern @ Walmart
+* Prev. Summer DS III Intern @ Walmart
   - AI Infra & Platform | RAG | CI/CD
   - Sam's Club AI Acceleration Team
 
-* Former Full-time Data Scientist @ SUEZ
+* Former Full-time Junior Data Scientist @ SUEZ
   - NLP | Time Series | DBSCAN | Linux
   - Smart & Environmental Solutions (SES) China
 
