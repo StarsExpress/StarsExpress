@@ -51,7 +51,7 @@
 
 | Product | Role | Repo | Contributions |
 |--------|-------------|----------|----------|
-| [Code Puppy](https://code-puppy.dev) | Coding Agents | [803⭐, 273🍴](https://github.com/mpfaffenberger/code_puppy) | [Merged PRs](https://github.com/mpfaffenberger/code_puppy/pulls?q=is:pr+author:StarsExpress+is:merged) — cut down idle CPU wake-ups by 88.5% via exponential backoff, aligned inconsistency spanning 20+ parser calls by splitting truthy & falsy case parsers, and corrected triage bot’s mis-classification.
+| [Code Puppy](https://code-puppy.dev) | Coding Agents | [803⭐, 273🍴](https://github.com/mpfaffenberger/code_puppy) | [Merged PRs](https://github.com/mpfaffenberger/code_puppy/pulls?q=is:pr+author:StarsExpress+is:merged) — cut down idle CPU wake-ups by 88.5% for Agent—UI communications, aligned inconsistency spanning 20+ parser calls by splitting truthy & falsy case parsers, and corrected triage bot’s mis-classification.
 | [LeetCode Wiki](https://leetcode.doocs.org/en/) | DSA Library | [36.5k⭐, 9.5k🍴](https://github.com/doocs/leetcode) | Merged [8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
 
 ---
