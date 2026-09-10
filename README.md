@@ -52,7 +52,7 @@
 | Product | Role | Repo | Contributions |
 |--------|-------------|----------|----------|
 | [Code Puppy](https://code-puppy.dev) | Coding Agents | [803⭐, 273🍴](https://github.com/mpfaffenberger/code_puppy) | [Merged PRs](https://github.com/mpfaffenberger/code_puppy/pulls?q=is:pr+author:StarsExpress+is:merged): cut down idle CPU wake-ups by 88.5% for Agent-UI communications, aligned inconsistency spanning 20+ parser calls by splitting truthy & falsy case parsers, and corrected triage bot’s mis-classification.
-| [Pydantic AI](https://pydantic.dev/pydantic-ai) | Agentic AI Framework | [19.8K⭐, 2.7K🍴](https://github.com/pydantic/pydantic-ai) | [Merged PRs](https://github.com/pydantic/pydantic-ai/commits/main/?author=StarsExpress): unified API errors handling pattern across Google & Cohere embedding models by extracting shared context managers.
+| [Pydantic AI](https://pydantic.dev/pydantic-ai) | Agentic AI Framework | [19.8K⭐, 2.7K🍴](https://github.com/pydantic/pydantic-ai) | [Merged PRs](https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+state%3Amerged+author%3AStarsExpress): unified API errors handling pattern across Google & Cohere embedding models by extracting shared context managers.
 | [LeetCode Wiki](https://leetcode.doocs.org/en/) | DSA Library | [36.5k⭐, 9.5k🍴](https://github.com/doocs/leetcode) | [Added 8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
 
 ---
