@@ -21,7 +21,8 @@
 
 * Prev. Summer DS III Intern @ Walmart
   - Sam's Club AI Acceleration Team.
-  - E2E System | AI Infra & Platform | RAG.
+  - Agentic AI Infra & Platform.
+  - Vision Intelligence: E2E System, RAG.
 
 * Former Full-time Junior DS @ SUEZ
   - Smart & Environmental Solutions (SES) China.
@@ -53,7 +54,7 @@
 
 | Product | Role | Repo | Contributions |
 |--------|-------------|----------|----------|
-| [Code Puppy](https://code-puppy.dev) | Coding Agents | [816⭐, 280🍴](https://github.com/mpfaffenberger/code_puppy) | [Merged PRs](https://github.com/mpfaffenberger/code_puppy/pulls?q=is:pr+author:StarsExpress+is:merged): cut down idle CPU wake-ups by 88.5% for Agent-UI communications, restored silently-dropped user config across Gemini classes, unified tools’ drifted file-read process, and aligned 20+ inconsistent parser calls.
+| [Code Puppy](https://code-puppy.dev) | Coding Agents | [816⭐, 280🍴](https://github.com/mpfaffenberger/code_puppy) | [Merged PRs](https://github.com/mpfaffenberger/code_puppy/pulls?q=is:pr+author:StarsExpress+is:merged): cut down idle CPU wake-ups by 88.5% for Agent-UI communications, added missing thread lock for user responses, restored silently-dropped user config across Gemini classes, unified tools’ drifted file-read process, and aligned 20+ inconsistent parser calls.
 | [Pydantic AI](https://pydantic.dev/pydantic-ai) | Agentic AI Framework | [20K⭐, 2.7K🍴](https://github.com/pydantic/pydantic-ai) | [Merged PRs](https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+state%3Amerged+author%3AStarsExpress): unified API errors handling pattern across Google & Cohere embedding models by extracting shared context managers.
 | [LeetCode Wiki](https://leetcode.doocs.org/en/) | DSA Library | [36.6k⭐, 9.5k🍴](https://github.com/doocs/leetcode) | [Added 8 optimal solutions and tutorials](https://github.com/doocs/leetcode/pulls?q=is:pr+author:StarsExpress+is:merged) for hard problems.
 | [The Algorithms](https://the-algorithms.com) | Algorithms Tutorials | [225k⭐, 51.1k🍴](https://github.com/TheAlgorithms/Python) | [Generalized optimal Kth next greater element method](https://thealgorithms.github.io/Python/autoapi/data_structures/stacks/kth_next_greater_element/index.html) at $O(k \times n)$ time complexity.
