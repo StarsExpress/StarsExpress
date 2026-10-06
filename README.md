@@ -20,22 +20,23 @@
 #### 🖥️ At Companies
 
 * Prev. Summer DS III Intern @ Walmart
-  - Sam's Club AI Acceleration Team.
-  - Agentic AI Infra & Platform.
-  - Vision Intelligence: E2E System, RAG.
+  - Sam's Club AI Acceleration Team
+  - Agentic AI Infra & Platform
+  - Vision Intelligence: E2E System, RAG
 
 * Former Full-time Junior DS @ SUEZ
-  - Smart & Environmental Solutions (SES) China.
-  - Client-facing product delivery.
-  - NLP | Time Series | DBSCAN | Linux.
+  - Smart & Environmental Solutions (SES) China
+  - Client-facing product delivery
+  - NLP | Time Series | DBSCAN | Linux
 
 #### 🏫 At Georgia Tech
 
 * Graduate TA — CS 6604 Conversational AI
-  - Autograder deployment & assignments design.
+  - Autograder deployment & assignments design
+  - DPO | SFT | LoRA
 
 * MSA, School of Computational Science & Engineering
-  - Expected graduation: December 2026.
+  - Expected graduation: December 2026
 
 ---
 
