@@ -33,7 +33,7 @@
 
 * Graduate TA — CS 6604 Conversational AI
   - Autograder deployment & assignments design
-  - DPO | SFT | LoRA
+  - RAG with cross-session memory | LoRA SFT | DPO
 
 * School of Computational Science & Engineering
   - Expected graduation: December 2026
